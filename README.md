@@ -106,11 +106,10 @@ There are three forms of contributions to this repository:
 
 - Propose a new project.
 
-To porpose a project all you have to do is create an issue in this repository with a corresponding pull request.
-The issue is meant for a general discussion about the idea, and the PR is meant for a
-content discussion (More use cases, further elaboration..). The pull request should contain an additional
-directory with a minimum of a README file that properly explains your suggestion. When the idea
-gets enough votes and if formulated fully, it will be merged to master.
+To porpose a project all you have to do is create a PR in this repository.
+The pull request should contain an additional directory with a minimum of a README file that properly explains
+your suggestion. When the idea gets enough votes and if formulated fully, it will be merged to master.
+Make sure to give a short descriptive name to the PR, so that people can browse throught the PR list quickly.
 
 - Discuss and vote
 
